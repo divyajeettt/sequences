@@ -60,6 +60,7 @@ Added the following (non-exhaustive) list of new sequences:
     > [1, 2, 6, 20, 70, ..., comb(2n, n)]
 
 ### Updates (0.0.8)
+
 Minor bug fixes
 
 ## Footnotes
