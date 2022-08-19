@@ -2,6 +2,7 @@
 Contains many of the most famous sequences of the OEIS as Python Functions
 each function returns a list containing terms of the sequence"""
 
+
 import math
 
 
