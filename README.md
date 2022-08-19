@@ -1,7 +1,7 @@
 # sequences
 
 ## About sequences
-sequences is a simple Mathematical Module providing access to the most famous of sequences from the [On-Line Encyclopedia of International Sequences (OEIS)](https://oeis.org/) as callables. 
+sequences is a simple mathematical module providing access to the most famous of sequences from the [On-Line Encyclopedia of International Sequences (OEIS)](https://oeis.org/) as callables. 
 
 *Date of creation:* `December 27, 2019` \
 *Date of first release on [PyPI](https://pypi.org/):* `April 29, 2021`
