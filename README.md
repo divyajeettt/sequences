@@ -72,7 +72,7 @@ The function `check(n)` is not meant for use.
 To use, execute:
 
 ```
-pip install sequences
+pip3 install sequences
 ```
 
 Import this file in your project, wherever needed, using:
